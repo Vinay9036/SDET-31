@@ -7,5 +7,8 @@ public class CreateContTest {
 	public void createCont() {
 		System.out.println("Creating Contact");
 	}
-
+    @Test
+    public void deleteCont() {
+    	System.out.println("Deleting contact");
+    }
 }
